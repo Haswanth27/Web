@@ -1,2 +1,2 @@
 Bindings(event,property,two way)
-AngularUpadted Signals
+AngularUpadted Signals instead of observables
