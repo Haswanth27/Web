@@ -1,1 +1,2 @@
 Bindings(event,property,two way)
+AngularUpadted Signals
