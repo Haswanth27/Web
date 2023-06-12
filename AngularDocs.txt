@@ -1,2 +1,2 @@
 Bindings(event,property,two way)
-AngularUpadted Signals instead of observables
+AngularUpadted Signals instead of observables which increases performance
